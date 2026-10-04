@@ -1,6 +1,6 @@
 <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/a538ca73-0145-4bf0-b896-4542825c84b4" />
 
-# Captured Story — разбор задания CyberCamp
+# Captured Story разбор таска с CyberCamp 2025
 
 Использонный софт: Wireshark, NetworkMiner, ZUI
 
