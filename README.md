@@ -1,3 +1,5 @@
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/a538ca73-0145-4bf0-b896-4542825c84b4" />
+
 # Captured Story — разбор задания CyberCamp
 
 Использонный софт: Wireshark, NetworkMiner, ZUI
@@ -43,6 +45,9 @@ Windows-хост запросил `/watch_movie.ps1` у `10.0.1.152:80`. User-Ag
 По сохранённому разбору деобфусцированного скрипта, он читал `C:\Top_Secret_Image.png`, преобразовывал байты повторяющимся XOR-ключом `ThisIsMySwamp` и передавал их в шестнадцатеричном виде на `10.0.1.247:80`.
 
 Из потока восстановили PNG. На картинке изображён осёл в солнечных очках на пляже под жёлтым зонтом. Цвет проверен непосредственным просмотром восстановленного изображения.
+
+
+<img width="397" height="400" alt="image" src="https://github.com/user-attachments/assets/ffc071a6-276b-4e2f-9ca4-46b52bdf4bb2" />
 
 ## Цепочка атаки
 
